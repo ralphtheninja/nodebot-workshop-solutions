@@ -1,0 +1,11 @@
+{
+  "name": "nodebot-workshop-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "johnny-five": "^0.8.32"
+  },
+  "devDependencies": {},
+  "author": "ralphtheninja <ralphtheninja@riseup.net>",
+  "license": "MIT"
+}
